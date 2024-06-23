@@ -10,7 +10,7 @@ This repository contains sales data from January 2019 to December 2019. Using pa
 ## Repository Contents
 **Sales_Data Folder**: Contains raw CSV files with monthly sales data.  
 **Sales Analysis PDF**: Detailed analysis and findings.  
-**Sales Analysis Notebook**: Jupyter notebook with code used for data merging, cleaning, analysis, and visualization.  
+**Sales Analysis Notebook**: Jupyter notebook with code used for data merging, cleaning, analysis and visualization.  
 
 ## **Example Analysis**
 Here's a brief example of the analysis conducted:
@@ -19,7 +19,7 @@ Here's a brief example of the analysis conducted:
 
 • Loaded monthly sales data files.  
 • Merged them into a single DataFrame using pandas.  
-• Cleaned the data by dropping NaN values and unnecesary and converting data types.  
+• Cleaned the data by dropping NaN,duplicates and unnecesary values and converting data types.  
 
 ### **Sales Analysis**:
 
